@@ -115,3 +115,7 @@ dotnet_style_qualification_for_method = false:suggestion
 #prefer properties not to be prefaced with this. or Me. in Visual Basic
 dotnet_style_qualification_for_property = false:suggestion
 csharp_style_namespace_declarations = file_scoped:warning
+
+#Code analysis
+
+dotnet_diagnostic.CS1591.severity = none
