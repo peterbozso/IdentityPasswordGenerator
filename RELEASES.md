@@ -1,13 +1,17 @@
 # Release notes
 
-## 1.0.0
+## 1.0.3
 
-Initial release.
+Update dependencies.
+
+## 1.0.2
+
+Update dependencies.
 
 ## 1.0.1
 
 Add code documentation.
 
-## 1.0.2
+## 1.0.0
 
-Update dependencies.
+Initial release.
